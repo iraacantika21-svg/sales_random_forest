@@ -1,0 +1,24 @@
+{
+  "model": "RandomForestClassifier",
+  "target": "Category Name",
+  "features": [
+    "Item Name"
+  ],
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_total": 251,
+  "n_train": 200,
+  "n_test": 51,
+  "accuracy": 0.9019607843137255,
+  "weighted_precision": 0.9219948849104859,
+  "weighted_recall": 0.9019607843137255,
+  "weighted_f1": 0.9026155483063827,
+  "classes": [
+    "Aquatic Tuberous Vegetables",
+    "Cabbage",
+    "Capsicum",
+    "Edible Mushroom",
+    "Flower/Leaf Vegetables",
+    "Solanum"
+  ]
+}
